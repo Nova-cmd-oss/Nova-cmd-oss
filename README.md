@@ -54,8 +54,8 @@ I enjoy turning ideas into polished products with clean UI, scalable architectur
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nova-cmd-oss&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nova-cmd-oss&layout=compact&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Nova-cmd-oss&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nova-cmd-oss&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 ---
 
