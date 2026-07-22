@@ -63,8 +63,17 @@ I enjoy turning ideas into polished products with clean UI, scalable architectur
 
 <!-- 🌐 Portfolio: https://your-portfolio.com -->
 
-- 💼 LinkedIn: https://www.linkedin.com/in/krishna-agarwal-dev/
-- 📧 Email: agarwalkrishna.xdev@gmail.com
+<p align="center">
+
+<a href="https://www.linkedin.com/in/krishna-agarwal-dev/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:agarwalkrishna.xdev@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 ---
 
 Thanks for stopping by! ⭐ If you enjoy my work, consider giving a project a star.
